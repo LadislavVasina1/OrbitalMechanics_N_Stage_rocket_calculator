@@ -1,4 +1,4 @@
-# OrbitalMechanics_N_Stage_rocket_calculator
+# OrbitalMechanics - N Stage rocket calculator
 [![EXAMPLE 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cTd-lX3T6UKBu04zrcXPyZ0rLAMOeZWy?usp=sharing) To run this file, click the colab button here, sign in to your google account on the colab site and in the top menu select `Runtime->Run all`
 
 The objective is to prepare a calculator capable to calculate performances of a n-stage launcher in the vertical launch (maximum n=8).
