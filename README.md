@@ -20,6 +20,6 @@ Moreover, the calculator will return:
 - Total altitude at the moment of zero velocity
 - Curves showing the distribution of velocity and altitude along the time of combustion
  
-All aerodynamic forces can be neglected. Gravitational acceleration can be considered as constant, 𝑔0 = 9.81 𝑚/𝑠
-2
+All aerodynamic forces can be neglected. Gravitational acceleration can be considered as constant, $g_0 = 9.81 𝑚/𝑠^2$
+
 (even at very high altitudes).
